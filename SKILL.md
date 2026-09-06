@@ -7,11 +7,15 @@ description: >-
   cross-session handover, plus quality-judge gates before any external publish.
   Triggers: start a new project, multi-session collaboration, project ops,
   mechanism/handbook, alignment, wrap-up, retrospective, operating model.
-version: 1.0.0
+version: 1.0.1
 license: CC BY-4.0
 author: Zhao Xinghua (Steven Zhao)
 homepage: https://github.com/zhaoxinghua09-cell/project-ops-protocol
+keywords: [ai-agents, multi-agent, project-management, llm, workflow, governance, operating-procedure]
+x-theory: LGD (Lifecycle Governance Doctrine) — registry/evidence/gates; concept DOI https://doi.org/10.5281/zenodo.22456647
 ---
+
+![lgd-powered-en](https://raw.githubusercontent.com/zhaoxinghua09-cell/lgd-theory/main/assets/badges/powered/lgd-powered-en.svg)
 
 # Project Ops Protocol (POP)
 

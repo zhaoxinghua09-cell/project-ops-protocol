@@ -1,5 +1,8 @@
 # project-ops-protocol
 
+![LGD-powered](https://raw.githubusercontent.com/zhaoxinghua09-cell/lgd-theory/main/assets/badges/powered/lgd-powered-en.svg)
+![LGD](https://raw.githubusercontent.com/zhaoxinghua09-cell/lgd-theory/main/assets/badges/lgd-aligned-en.svg)
+
 **A lightweight operating protocol for serious projects that run across multiple AI sessions, agents and one (or more) humans.**
 
 Proven in the field on a long-running multi-session build (100+ documents, 50+ tools, parallel AI sessions) — no lost state, no duplicated work, no collisions.
